@@ -3,7 +3,9 @@
 # I am Webdevc1
 
 This is my intro:
+
 Before anything thanks mr jeremy kratz for the logos
+
 I am Webdevc1 and I have started dev, Thank you for passing by,I am proficient in the following
 
 <picture>
