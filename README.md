@@ -4,7 +4,7 @@
 
 This is my intro:
 
-### Before anything thanks mr jeremy kratz for the logo(none of the attached logos are my creation)
+### Before anything thanks Mr Jeremy Kratz for the logo(none of the attached logos are my creation)
 
 I am Webdevc1 and I have started dev, Thank you for passing by,I am proficient in the following
 
