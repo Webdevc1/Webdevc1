@@ -8,8 +8,8 @@ I am Webdevc1 and I have started dev, Thank you for passing by,I am proficient i
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.flaticon.com/free-icon/c_6132222">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.flaticon.com/free-icon/c_6132222">
+ <img alt="C++" src="https://www.flaticon.com/free-icon/c_6132222">
 </picture>
 
 <!--
