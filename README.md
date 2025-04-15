@@ -3,13 +3,12 @@
 # I am Webdevc1
 
 This is my intro:
-
+Before anything thanks mr jeremy kratz for the logos
 I am Webdevc1 and I have started dev, Thank you for passing by,I am proficient in the following
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.flaticon.com/free-icon/c_6132222">
- <source media="(prefers-color-scheme: light)" srcset="https://www.flaticon.com/free-icon/c_6132222">
- <img alt="C++" src="https://www.flaticon.com/free-icon/c_6132222">
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"width=5% height=5%>
+ 
 </picture>
 
 <!--
