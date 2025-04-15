@@ -2,9 +2,9 @@
 
 ## I am Webdevc1
 
-This is my intro:
-
 ### Before anything thanks Mr Jeremy Kratz for the logo(none of the attached logos are my creation)
+
+This is my intro:
 
 I am Webdevc1 and I have started dev, Thank you for passing by,I am proficient in the following
 
