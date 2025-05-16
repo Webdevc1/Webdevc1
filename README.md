@@ -2,15 +2,11 @@
 
 ## I am Webdevc1
 
-### Before anything thanks Mr Jeremy Kratz for the logo(none of the attached logos are my creation)
+###  Hey people, I am devc and I just started dev. Gotta get working now bye, but thanks for passing by.😊 
 
-This is my intro:
-
-I am Webdevc1 and I have started dev, Thank you for passing by,I am proficient in the following
-
+#### These are some of the languages I have worked with:
 <picture>
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"width=5% height=5%>
- 
 </picture>
 
 <!--
