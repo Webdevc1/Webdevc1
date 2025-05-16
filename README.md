@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## I am Webdevc1
-
 ###  Hey people, I am devc and I just started dev. Gotta get working now bye, but thanks for passing by.😊 
 
 #### These are some of the languages I have worked with:
