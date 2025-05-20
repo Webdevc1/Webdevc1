@@ -1,8 +1,10 @@
-# Hi there 👋
-
-###  Hey people, I am devc and I just started dev. Gotta get working now bye, but thanks for passing by.😊 
-
-#### These are some of the languages I have worked with:
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link type="stylesheet" href="styles.css">
+    
+  </head>
+</html>
 <picture>
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"width=5% height=5%>
 </picture>
