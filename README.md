@@ -1,13 +1,26 @@
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <link type="stylesheet" href="styles.css">
-    
+    <style>
+      img{
+        box-sizing:content-box;
+        width:50px;
+        height:50px;
+      }
+    </style>
   </head>
+  <body>
+    <h1> Hey people, I am Devc,^_^</h1>
+    <h2> This is my intro: Existence==Code,Sleep,Eat👍</h2>
+    <p>These are some of the languages that I have worked with: </p>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++">
+    <img src="./images/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo-removebg-preview.png" alt="C">
+    <img src="">
+  </body>
+
 </html>
-<picture>
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"width=5% height=5%>
-</picture>
+
 
 <!--
 **Webdevc1/Webdevc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
