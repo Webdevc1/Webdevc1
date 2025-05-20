@@ -2,13 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <style>
-      img{
-        box-sizing:content-box;
-        width:50px;
-        height:50px;
-      }
-    </style>
   </head>
   <body>
     <h1> Hey people, I am Devc,^_^</h1>
