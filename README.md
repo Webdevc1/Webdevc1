@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1> Hey people, I am Devc,^_^</h1>
-    <h3> This is my intro: Existence==Code,Sleep,Eat👍</h3>
+    <h3> This is my intro: Existence==while(alive){Code+Sleep+Eat}👍</h3>
     <p>These are some of the languages that I have worked with: </p>
     <img src="images/Untitled_design-removebg-preview.png">
   </body>
