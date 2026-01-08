@@ -1,6 +1,6 @@
-<div align="center">
+
   <h1> Hey people, I am Devc😁,</h1>
-  
+  <div align="center">
   <h3> This is my intro: Existence==while(alive){Code+Sleep+Eat} and that's it. Well,atleast I want it to be.</h3>
   
   <p>These are some of the languages and frameworks that I am confident in: </p>
