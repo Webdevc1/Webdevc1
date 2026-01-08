@@ -29,7 +29,7 @@
 
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Thank%20you-for%20time%20-blue"/>
+   <img src="https://img.shields.io/badge/Thank%20you-for%20your%20time%20-blue"/>
 </p>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,flask,c,cpp&perline=7)](https://skillicons.dev) -->
