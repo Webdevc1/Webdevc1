@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h1> Hey people, I am Devc😁,</h1>
   
   <h3> This is my intro: Existence==while(alive){Code+Sleep+Eat} and that's it. Well,atleast I want it to be.</h3>
