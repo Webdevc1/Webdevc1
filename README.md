@@ -18,7 +18,7 @@
   <p>Currently, I am learning and improving myself in: </p>
 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,docker,vite,fastapi&perline=4" />
+    <img src="https://skillicons.dev/icons?i=react,django,docker,vite,fastapi,tailwind&perline=4" />
   </a>
     
   
