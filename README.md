@@ -12,13 +12,14 @@
   <p>And these are some of the technologies I have worked with: </p>
 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,sublime,linux,stackoverflow,powershell,npm,md,github,eclipse,figma&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,sublime,linux,stackoverflow,powershell,npm,md,github,eclipse,figma,vite,anaconda,googlecolab,canva&perline=4" />
   </a>
 
   <p>Currently, I am learning and improving myself in: </p>
 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,docker,vite,fastapi,tailwind&perline=4" />
+    <!-- <img src="https://skillicons.dev/icons?i=react,django,docker,vite,fastapi,tailwind&perline=4" /> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,django,docker,fastapi,tailwind,gsap&perline=4">
   </a>
     
   
